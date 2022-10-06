@@ -57,10 +57,10 @@ Windows:
 <h2 id="project-files-description"> 🏗️ Roadmap </h2>
 <ol>
   
- <b><li>Implement database</li></b>
+ <b><li>Implement database.</li></b>
  <ul><li>Currently the song data is written into a json file.</li></ul>
   
- <b><li>Implement React web UI</li></b>
+ <b><li>Implement React web UI.</li></b>
  <ul><li>The music game gives a link to the music video rather than playing the actual video.</li> </ul>
  
  <b><li>Host on a server like Heroku or AWS.</li></b>
