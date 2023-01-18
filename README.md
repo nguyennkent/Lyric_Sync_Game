@@ -1,4 +1,4 @@
-<h1 align="center"> 🎵 Music Song Game 🎵</h1>
+<h1 align="center"> 🎵 Lyric Sync Game 🎵</h1>
 
 
 <!-- ABOUT THE PROJECT -->
